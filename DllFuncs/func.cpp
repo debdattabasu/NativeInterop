@@ -25,5 +25,4 @@ __declspec(dllexport)  float __cdecl nativef(BBox * boxes, int size)
 	return (float)sum/(float)size * 100;
 }
 
-
 };
